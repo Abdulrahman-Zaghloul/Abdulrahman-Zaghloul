@@ -60,6 +60,8 @@ My background combines software, databases, and spatial data, which gives me a s
 
 ## 📫 Contact
 
-**💼 LinkedIn:** linkedin.com/in/Abdul-Zaghloul
-**🐙 GitHub:** github.com/Abdulrahman-Zaghloul
-**📧 Email:** [abdulrahmanxzaghloul@gmail.com](mailto:abdulrahmanxzaghloul@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/Abdul-Zaghloul)
+
+🐙 [GitHub](https://github.com/Abdulrahman-Zaghloul)
+
+📧 [Email Me](mailto:abdulrahmanxzaghloul@gmail.com)
