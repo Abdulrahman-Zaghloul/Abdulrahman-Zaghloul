@@ -2,7 +2,7 @@
 
 🎓 **Data Engineering Graduate** I use **Python, SQL, PostgreSQL, PySpark, Docker, Parquet, and GIS/spatial data workflows**.
 
-🚀 I’m build practical data engineering projects that turn raw data into clean, structured, analytics-ready datasets.
+🚀 I build practical data engineering projects that turn raw data into clean, structured, analytics-ready datasets.
 
 ---
 
