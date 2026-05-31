@@ -1,39 +1,65 @@
-# Hi, I'm Abdulrahman Zaghloul
+# 👋 Hi, I'm Abdulrahman Zaghloul
 
-Computer Engineering and M.S. Computer Science & Engineering graduate focused on data engineering, Python automation, SQL, PostgreSQL, PySpark, Docker, and spatial data systems.
+🎓 **Data Engineering Graduate** I use **Python, SQL, PostgreSQL, PySpark, Docker, Parquet, and GIS/spatial data workflows**.
 
-I’m building practical data engineering projects that demonstrate batch processing, relational databases, ETL-style workflows, data quality checks, lakehouse architecture, and analytics-ready datasets.
+🚀 I’m build practical data engineering projects that turn raw data into clean, structured, analytics-ready datasets.
 
-## Current Focus
+---
 
-* Building a modern retail data lakehouse using Docker, PostgreSQL, Apache Spark/PySpark, Parquet, and Linux
-* Strengthening SQL, Python, data modeling, and data pipeline development skills
-* Applying GIS and spatial-data experience to data engineering workflows
+## 🧰 Tech Stack
 
-## Featured Projects
+**💻 Languages:** Python · SQL · Java · JavaScript · C
+**⚙️ Data Engineering:** PostgreSQL · Docker · PySpark · Parquet · ETL/ELT · Linux
+**🗺️ GIS & Spatial Data:** ArcGIS Pro · QGIS · GeoPandas · OSMnx · NetworkX · PostGIS
+**🛠️ Tools:** Git · GitHub · VS Code · Makefile · Matplotlib · Scikit-learn
 
-### Modern Retail Data Lakehouse Pipeline
+---
 
-A data engineering portfolio project focused on building a local batch data platform using Docker, PostgreSQL, Apache Spark/PySpark, Parquet, Makefile automation, Git/GitHub, and Linux.
+## 🚀 Featured Projects
 
-### Geospatial Routing & Territory Optimization
+### 🏗️ Modern Retail Data Lakehouse Pipeline
 
-A spatial data project using Python, GeoPandas, OSMnx, NetworkX, Scikit-learn, and Matplotlib to process OpenStreetMap road-network data, cluster delivery locations, and generate optimized routing workflows.
+**Docker · PostgreSQL · PySpark · Parquet · Linux**
 
-### Spatial Data Processing & GIS Workflows
+Building a local batch data platform that extracts retail data from PostgreSQL, processes it with PySpark, and stores raw datasets as Parquet for downstream analytics.
 
-GIS and spatial data projects involving ArcGIS Pro, QGIS, PostgreSQL/PostGIS, Python automation, georeferencing, data validation, and analytics-ready geospatial datasets.
+🔗 [View Project](https://github.com/Abdulrahman-Zaghloul/retail-lakehouse-pipeline)
 
-## Technical Skills
+---
 
-**Languages:** Python, SQL, Java, JavaScript, C
-**Data Engineering:** PostgreSQL, Docker, PySpark, Parquet, ETL/ELT, Linux, Makefile automation
-**Databases:** PostgreSQL, PostGIS, MySQL, SQLite
-**GIS & Spatial Data:** ArcGIS Pro, QGIS, GeoPandas, OSMnx, NetworkX, ArcPy
-**Tools:** Git, GitHub, VS Code, Matplotlib, Scikit-learn
+### 🗺️ Geospatial Routing & Territory Optimization
 
-## Contact
+**Python · GeoPandas · OSMnx · NetworkX · Scikit-learn**
 
-* LinkedIn: linkedin.com/in/Abdul-Zaghloul
-* GitHub: github.com/Abdulrahman-Zaghloul
-* Email: [abdulrahmanxzaghloul@gmail.com](mailto:abdulrahmanxzaghloul@gmail.com)
+Processed OpenStreetMap road-network data and 300 delivery locations to create optimized driver territories and routing workflows.
+
+🔗 [View Project](https://github.com/Abdulrahman-Zaghloul/logistics-network-optimization)
+
+---
+
+### 🔄 Spatial ETL Pipeline
+
+**Python · GeoPandas · PostgreSQL/PostGIS · Data Quality**
+
+ETL-style geospatial data processing project focused on cleaning, transforming, validating, and preparing spatial datasets for analysis.
+
+🔗 [View Project](https://github.com/Abdulrahman-Zaghloul/spatial-etl-pipeline)
+
+---
+
+<details>
+<summary>👨‍💻 More about me</summary>
+
+I’m a Computer Engineering and M.S. Computer Science & Engineering graduate with experience in data processing, SQL querying, PostgreSQL, Python automation, GIS workflows, and data quality validation.
+
+My background combines software, databases, and spatial data, which gives me a strong foundation for data engineering, ETL development, analytics engineering, and geospatial data engineering roles.
+
+</details>
+
+---
+
+## 📫 Contact
+
+**💼 LinkedIn:** linkedin.com/in/Abdul-Zaghloul
+**🐙 GitHub:** github.com/Abdulrahman-Zaghloul
+**📧 Email:** [abdulrahmanxzaghloul@gmail.com](mailto:abdulrahmanxzaghloul@gmail.com)
