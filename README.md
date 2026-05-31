@@ -9,8 +9,11 @@
 ## 🧰 Tech Stack
 
 **💻 Languages:** Python · SQL · Java · JavaScript · C
+
 **⚙️ Data Engineering:** PostgreSQL · Docker · PySpark · Parquet · ETL/ELT · Linux
+
 **🗺️ GIS & Spatial Data:** ArcGIS Pro · QGIS · GeoPandas · OSMnx · NetworkX · PostGIS
+
 **🛠️ Tools:** Git · GitHub · VS Code · Makefile · Matplotlib · Scikit-learn
 
 ---
@@ -60,8 +63,6 @@ My background combines software, databases, and spatial data, which gives me a s
 
 ## 📫 Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/Abdul-Zaghloul)
-
-🐙 [GitHub](https://github.com/Abdulrahman-Zaghloul)
-
-📧 [Email Me](mailto:abdulrahmanxzaghloul@gmail.com)
+**💼 LinkedIn:** [linkedin.com/in/Abdul-Zaghloul](https://www.linkedin.com/in/Abdul-Zaghloul)  
+**🐙 GitHub:** [github.com/Abdulrahman-Zaghloul](https://github.com/Abdulrahman-Zaghloul)  
+**📧 Email:** [abdulrahmanxzaghloul@gmail.com](mailto:abdulrahmanxzaghloul@gmail.com)
