@@ -61,4 +61,4 @@ Reads security logs, detects SSH brute force, password spraying and logins after
 ## Contact
 
 **LinkedIn:** [linkedin.com/in/Abdul-Zaghloul](https://www.linkedin.com/in/Abdul-Zaghloul)  
-**Email:** [abdulrahmanxzaghloul@gmail.com](mailto:abdulrahmanxzaghloul@gmail.com)
+**Email:** [abdulrahmansamy2@gmail.com](mailto:abdulrahmansamy2@gmail.com)
